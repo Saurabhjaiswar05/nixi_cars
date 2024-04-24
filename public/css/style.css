@@ -1,0 +1,18 @@
+.slider-image{
+    height: 550px !important;
+    object-fit: cover;
+}
+
+.service_icon{
+    font-size: 90px;
+    color: skyblue;
+}
+
+
+
+.background2{
+    color: white;
+    background-color: #292929;
+
+}
+
