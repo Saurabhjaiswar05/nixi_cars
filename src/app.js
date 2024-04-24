@@ -29,7 +29,7 @@ hbs.registerPartials("views/partials")
 
 // mongodb connection
 
-mongoose.connect("mongodb://localhost:27017/dynamicData").then(()=>{
+mongoose.connect("mongodb+srv://admin:Wv3sM9dDJowi3gCb@cluster0.smzybm5.mongodb.net").then(()=>{
     console.log("database connected");
 
     // Images.create(
